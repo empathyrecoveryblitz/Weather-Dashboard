@@ -1,10 +1,12 @@
 # 06-Server-Side-APIs-Weather-Dashboard
 
+## Deployed App
+
+https://empathyrecoveryblitz.github.io/Weather-Dashboard/
+
 ## Your Task
 
 Third-party APIs allow developers to access their data and functionality by making requests with specific parameters to a URL. Developers are often tasked with retrieving data from another application's API and using it in the context of their own. Your challenge is to build a weather dashboard that will run in the browser and feature dynamically updated HTML and CSS.
-
-Use the OpenWeather One Call APICollega a un sito esterno. to retrieve weather data for cities. Read through the documentation for setup and usage instructions. You will use localStorage to store any persistent data.
 
 ## Acceptance Criteria
 
@@ -21,7 +23,7 @@ WHEN I click on a city in the search history
 THEN I am again presented with current and future conditions for that city
 
 
-## Screen shot:
+## Screenshot:
 
 ![The finished Weather Dashboard](https://a.pomf.cat/eucobx.png)
 
