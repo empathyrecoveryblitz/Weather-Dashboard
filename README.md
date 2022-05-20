@@ -23,6 +23,6 @@ THEN I am again presented with current and future conditions for that city
 
 ## Screen shot:
 
-![The finished Weather Dashboard](assets/images/Weather-Dashboard.png)
+![The finished Weather Dashboard](.\assets\images\dashboard.png)
 
 
